@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Mata Uang Convert\Mata Uang Convert\bin\Debug\Mata Uang Convert.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Mata Uang Convert\Mata Uang Convert\bin\Debug\Mata Uang Convert.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Mata Uang Convert\Mata Uang Convert\bin\Debug\Mata Uang Convert.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Mata Uang Convert\Mata Uang Convert\obj\Debug\Mata_Uang_Convert.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Mata Uang Convert\Mata Uang Convert\obj\Debug\Mata_Uang_Convert.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Mata Uang Convert\Mata Uang Convert\obj\Debug\Mata Uang Convert.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Mata Uang Convert\Mata Uang Convert\obj\Debug\Mata Uang Convert.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Mata Uang Convert\Mata Uang Convert\obj\Debug\Mata Uang Convert.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Mata Uang Convert\Mata Uang Convert\obj\Debug\Mata Uang Convert.pdb
